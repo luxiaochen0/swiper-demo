@@ -1,0 +1,17 @@
+{
+  "name": "swiper-demo",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "swiper": "^5.0.3"
+  }
+}
